@@ -85,6 +85,15 @@
                         <a href="{{ route('team') }}" class="dropdown-item">Our Team</a>
                         <a href="{{ route('testimonials') }}" class="dropdown-item">Testimonial</a>
                         <a href="{{ route('page404') }}" class="dropdown-item">404 Page</a>
+                           <a href="{{ route('Milk') }}" class="dropdown-item">Doodh (Milk)</a>
+                        <a href="{{ route('Dahi') }}" class="dropdown-item">Dahi (Curd/Yogurt)</a>
+                        <a href="{{ route('Ghee') }}" class="dropdown-item">Ghee</a>
+                        <a href="{{ route('Paneer') }}" class="dropdown-item">Paneer (Cheese)</a>
+                        <a href="{{ route('Butter') }}" class="dropdown-item">Butter</a>
+                         <a href="{{ route('IceCream') }}" class="dropdown-item">Ice Cream</a>
+                          <a href="{{ route('Lassi') }}" class="dropdown-item">Lassi / Chhachh (Buttermilk)</a>
+                           <a href="{{ route('Lassi') }}" class="dropdown-item">Health Products</a>
+                            <a href="{{ route('Butter') }}" class="dropdown-item">Butter</a>
                     </div>
                 </div>
                 <a href="{{ route('contact') }}" class="nav-item nav-link">Contact</a>
