@@ -76,7 +76,7 @@
                 <a href="{{ route('home') }}" class="nav-item nav-link">Home</a>
                 <a href="{{ route('about') }}" class="nav-item nav-link">About</a>
                 <a href="{{ route('services') }}" class="nav-item nav-link active">Services</a>
-                 <div class="nav-item dropdown">
+              <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
                     <div class="dropdown-menu bg-light m-0">
                            <a href="{{ route('Milk') }}" class="dropdown-item">Doodh (Milk)</a>
@@ -99,7 +99,6 @@
                            
                     </div>
                 </div>
-                
                 <a href="{{ route('contact') }}" class="nav-item nav-link">Contact</a>
             </div>
             <div class="border-start ps-4 d-none d-lg-block">
@@ -113,12 +112,12 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class="display-3 text-white mb-4 animated slideInDown">Services</h1>
+            <h1 class="display-3 text-white mb-4 animated slideInDown">Buttermilk</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="{{ route('home') }}">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Services</li>
+                    <li class="breadcrumb-item active" aria-current="page">Buttermilk</li>
                 </ol>
             </nav>
         </div>
